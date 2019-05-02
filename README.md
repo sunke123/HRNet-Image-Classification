@@ -17,6 +17,7 @@ HRNetV2 ImageNet pretrained models are now available!
 | HRNet-W40-C | 57.6M | 11.8 | 21.1% | 5.5% |[OneDrive](https://1drv.ms/u/s!Aus8VCZ_C_33ck0gvo5jfoWBOPo)|
 | HRNet-W44-C | 67.1M | 13.9 | 21.1% | 5.6% |[OneDrive](https://1drv.ms/u/s!Aus8VCZ_C_33czZQ0woUb980gRs)|
 | HRNet-W48-C | 77.5M | 16.1 | 20.7% | 5.5% |[OneDrive](https://1drv.ms/u/s!Aus8VCZ_C_33dKvqI6pBZlifgJk)|
+| HRNet-W64-C | 128.1M | 26.9 | 20.5% | 5.3% |[OneDrive](https://1drv.ms/u/s!Aus8VCZ_C_33gQbJsUPTIj3rQu99)|
 
 ## Quick start
 ### Install
